@@ -31,7 +31,7 @@ Working Principle
 
 2. Pipeline inference: Split the large model into layers. Each layer is assigned to one independent module. Only final outputs are passed to next module to reduce communication pressure.
 
-3. Terminal: Connect to mobile phone or PC. Mobile phone is only for user interaction, all heavy AI computation runs on the box.
+3. Terminal: Connect to mobile phone or PC. Mobile phone is only for user interaction, all heavy AI computation runs on the box.This portable modular box works as an external AI accelerator for both phones and PCs
 
 4. Private network: Devices communicate on license-free private wireless LAN. End-to-end multi-layer encryption for file/image transfer. Data never flows through public telecom networks.
  
