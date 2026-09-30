@@ -11,7 +11,7 @@ Modular Offline AI Box (Open Concept)
  
 Project Introduction
  
-This is an open-source hardware concept. It is a pluggable modular AI computing box, reusing mature mobile SoC and LPDDR memory chips, adopting pipeline layer-by-layer inference architecture.
+This is an open-source hardware concept. It is a portable, pluggable modular AI computing box, reusing mature mobile SoC and LPDDR memory chips, adopting pipeline layer-by-layer inference architecture.
  
 - Target spec: Expandable up to 4TB memory pool
 
